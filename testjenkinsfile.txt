@@ -1,3 +1,10 @@
+Doing 2nd commit for understanding.
+
+It is the Integration between jenkins and github.
+
+As, currently I am using a pubic repository, so, no credentials are required.
+Only in the private repository, credentials are required.
+
 Now, we are doing the testing of Poll SCM concept.
 With this, jenkis will do the checkout from github automatically.
 testjenkinsfile.txt
