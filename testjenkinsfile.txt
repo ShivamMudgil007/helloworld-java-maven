@@ -1,1 +1,3 @@
+Now, we are doing the testing of Poll SCM concept.
+With this, jenkis will do the checkout from github automatically.
 testjenkinsfile.txt
